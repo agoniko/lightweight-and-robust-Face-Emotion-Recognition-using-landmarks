@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.jpeg
+databases/AffectNet/landmarks.json
+__pycache__
+*.DS_Store
