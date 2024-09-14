@@ -1,4 +1,5 @@
 *.png
+!affine_normalization.png
 *.jpg
 *.jpeg
 databases/AffectNet/landmarks.json
